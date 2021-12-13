@@ -1,0 +1,10 @@
+vertex id,originalDegree,degreeDelete,average,terminalClique
+0,2,2,2,8
+1,2,1,2,8
+2,2,2,2,8
+3,2,1,2,8
+4,2,2,2,8
+5,2,1,2,8
+6,2,1,2,8
+7,2,1,2,8
+

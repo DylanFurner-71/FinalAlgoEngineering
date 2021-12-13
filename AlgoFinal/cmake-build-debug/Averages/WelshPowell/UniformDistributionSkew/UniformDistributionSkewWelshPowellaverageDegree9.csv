@@ -1,0 +1,11 @@
+vertex id,originalDegree,degreeDelete,average,
+0,7,0,4
+0,0,0,4
+2,8,0,4
+3,7,0,4
+4,5,0,4
+5,4,0,4
+6,4,0,4
+7,3,0,4
+8,3,0,4
+
